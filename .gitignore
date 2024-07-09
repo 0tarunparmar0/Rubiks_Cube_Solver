@@ -1,0 +1,71 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executable files
+*.out
+*.exe
+
+# Debug files
+*.dSYM/
+*.dSStore/
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# C++ specific
+# CDT-persisted folder: Use of the 'cdt' prefix is documented in the manual
+.cproject
+.project
+.buildpath
+
+# JetBrains CLion
+.idea/
+.idea/*
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/libraries
+.idea/.name
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/
+.idea/httpRequests
+.idea/httpRequests/
+.idea/.idea/
+.idea/.idea/*
+.idea/.idea/.name
+.idea/.idea/.idea/
+.idea/.idea/workspace.xml
+
+# clang-format and clang-tidy
+.clang-format
+.clang-tidy
+
+# Compiler-generated files
+*.d
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+Debug/
+Release/
